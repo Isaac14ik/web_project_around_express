@@ -1,0 +1,20 @@
+{
+  "name": "web_project_around_express",
+  "version": "1.0.0",
+  "description": "Learn back end",
+  "homepage": "https://github.com/Isaac14ik/web_project_around_express#readme",
+  "bugs": {
+    "url": "https://github.com/Isaac14ik/web_project_around_express/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Isaac14ik/web_project_around_express.git"
+  },
+  "license": "ISC",
+  "author": "Jorge_Nava",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
